@@ -16,17 +16,16 @@ export default function Page() {
       "Are you sure?",
       "What if I asked really nicely?",
       "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
+      "With a nice hot chocolate...",
+      "What about some savoury, to relish 😘😋",
       "PLEASE POOKIE",
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
-      "please babe",
+      "ok ur talking to my ghost now",
       ":((((",
-      "PRETTY PLEASE",
-      "Estoy muerto",
+      "PRETTY CUTTTTTIEEEEEE",
+      "Palakkkkkk !!!!",
       "No :(",
     ];
 
@@ -37,14 +36,29 @@ export default function Page() {
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {yesPressed ? (
         <>
-          <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <div className="flex space-x-1">
+            <img
+              // src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
+              src="https://gifdb.com/images/high/cuddling-milk-and-mocha-bear-lifting-n3r8nthjt77zlvyw.webp"
+              className="w-auto h-auto"
+            />
+            <img
+              src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
+              className="w-auto h-auto"
+            />
+          </div>
+          <>
+            <div className="my-4 text-4xl font-bold">
+              WOOOOOO!!! I love you sooooo much, mypookie!! ;))
+            </div>
+          </>
         </>
       ) : (
         <>
           <img
             className="h-[200px]"
-            src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+            // src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+            src="https://gifdb.com/images/high/hello-animated-milk-and-mocha-mad-poke-wczos5085dw6qo6c.webp"
           />
           <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
           <div className="flex items-center">
