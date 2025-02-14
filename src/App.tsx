@@ -49,7 +49,11 @@ export default function Page() {
           </div>
           <>
             <div className="my-4 text-4xl font-bold">
-              WOOOOOO!!! I love you sooooo much, my pookie!! ;))
+              WOOOOOO!!! I love you sooooo much, my cuttttieeee patootiieee!!
+              ;))
+            </div>
+            <div className="text-pink-400 text-4xl font-serif">
+              Palakkkkkkkkk 😘😘🫂
             </div>
           </>
         </>
