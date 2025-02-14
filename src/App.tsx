@@ -49,7 +49,7 @@ export default function Page() {
           </div>
           <>
             <div className="my-4 text-4xl font-bold">
-              WOOOOOO!!! I love you sooooo much, mypookie!! ;))
+              WOOOOOO!!! I love you sooooo much, my pookie!! ;))
             </div>
           </>
         </>
